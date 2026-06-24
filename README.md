@@ -55,6 +55,7 @@ result:https://github.com/ellnik/TerminErinnerungWeb/blob/main/projekt2.docx.png
 **Author**
 
 Olena Nikolaienko
+
 Fachinformatikerin für Anwendungsentwicklung
 
 
