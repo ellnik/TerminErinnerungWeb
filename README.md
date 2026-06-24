@@ -1,7 +1,9 @@
 **TerminErinnerungWeb**
 
 **Overview**
+
 TerminErinnerungWeb is a Java web application for managing appointments and reminders.
+
 The project was developed as part of the training program for a Fachinformatikerin für Anwendungsentwicklung.
 
 **Features**
