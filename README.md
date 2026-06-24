@@ -1,59 +1,55 @@
 TerminErinnerungWeb
+Overview
 
-Projektbeschreibung
+TerminErinnerungWeb is a Java web application for managing appointments and reminders.
 
-TerminErinnerungWeb ist eine Webanwendung zur Verwaltung von Terminen und Erinnerungen. 
-Das Projekt wurde im Rahmen der Ausbildung zur Fachinformatikerin für Anwendungsentwicklung entwickelt.
+The project was developed as part of the training program for a Fachinformatikerin für Anwendungsentwicklung.
 
-Die Anwendung ermöglicht die Erfassung von Terminen über eine Weboberfläche. 
-Die eingegebenen Daten werden mittels HTTP-POST an ein Servlet übertragen und dort verarbeitet.
+Features
+Create a new appointment
+Enter date and time
+Transfer data using HTTP POST
+Process user input with Jakarta Servlets
+Display appointment information on a JSP page
 
-Funktionen
-
-Neuen Termin erfassen
-Datum und Uhrzeit auswählen
-Übertragung der Daten per HTTP-POST
-Verarbeitung der Benutzereingaben im Servlet
-Anzeige der übermittelten Daten im Browser
-
-Verwendete Technologien
+Technologies
 Java 21
 JSP (Java Server Pages)
 Jakarta Servlet
 Maven
 HTML
 Apache Tomcat
-MySQL (geplant)
+MySQL (planned)
 
-Projektstruktur
+Project Structure
 
 src/main/java
-└── servlet
-    └── IndexServlet.java
+
+servlet/IndexServlet.java
 
 src/main/webapp
-└── index.jsp
 
-Funktionsweise
-Der Benutzer öffnet die Seite index.jsp.
-Ein Terminname, Datum und Uhrzeit werden eingegeben.
-Die Daten werden über ein HTML-Formular an das Servlet IndexServlet gesendet.
-Das Servlet verarbeitet die Daten in der Methode doPost().
-Die übermittelten Informationen werden im Browser angezeigt.
-Aktueller Entwicklungsstand
+index.jsp
+result.jsp
 
-✔ Maven-Webprojekt erstellt
-✔ JSP-Webseite erstellt
-✔ Servlet implementiert
-✔ HTTP-POST Kommunikation eingerichtet
-✔ Test auf Apache Tomcat erfolgreich durchgeführt
+How It Works
+Open the application.
+Enter an appointment name, date, and time.
+Submit the form.
+The servlet processes the request.
+The result is displayed on a JSP page.
 
-🔄 Speicherung in MySQL-Datenbank in Vorbereitung
+Current Status
+Maven project created
+JSP pages implemented
+Servlet implemented
+HTTP POST communication working
+Successfully tested on Apache Tomcat
+MySQL integration planned
 
-Autorin
+Author
 Olena Nikolaienko
-Ausbildung: Fachinformatikerin für Anwendungsentwicklung
-Projekt: TerminErinnerungWeb
+Fachinformatikerin für Anwendungsentwicklung
 
 result:https://github.com/ellnik/TerminErinnerungWeb/blob/main/projekt1.png
 result:https://github.com/ellnik/TerminErinnerungWeb/blob/main/projekt2.docx.png
