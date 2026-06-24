@@ -56,4 +56,4 @@ Ausbildung: Fachinformatikerin für Anwendungsentwicklung
 Projekt: TerminErinnerungWeb
 
 result:https://github.com/ellnik/TerminErinnerungWeb/blob/main/projekt1.png
-result:
+result:https://github.com/ellnik/TerminErinnerungWeb/blob/main/projekt2.docx.png
