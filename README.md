@@ -5,11 +5,11 @@ TerminErinnerungWeb is a Java web application for managing appointments and remi
 The project was developed as part of the training program for a Fachinformatikerin für Anwendungsentwicklung.
 
 **Features**
-- Create a new appointment
-- Enter date and time
-- Transfer data using HTTP POST
-- Process user input with Jakarta Servlets
-- Display appointment information on a JSP page
+- [x] Create a new appointment
+- [x] Enter date and time
+- [x] Transfer data using HTTP POST
+- [x] Process user input with Jakarta Servlets
+- [x] Display appointment information on a JSP page
 
 **Technologies**
 
