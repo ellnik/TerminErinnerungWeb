@@ -3,9 +3,7 @@ pageEncoding="UTF-8"%>
 
 <!DOCTYPE html>
 
-<html> <head> <meta charset="UTF-8"> <title>TerminErinnerung</title> </head>
-
-<body>
+<html> <head> <meta charset="UTF-8"> <title>TerminErinnerung</title> </head> <body>
 
 <h1>TerminErinnerung</h1>
 
@@ -13,7 +11,7 @@ pageEncoding="UTF-8"%>
 
 <h2>Projektbeschreibung</h2>
 
-<p> Das System speichert Termine und ermöglicht die einfache Verwaltung von Erinnerungen. </p>
+<p> Das System ermöglicht die Erfassung und Verwaltung von Terminen. Benutzer können einen Termin mit Datum und Uhrzeit eingeben und die Daten an das System senden. </p>
 
 <h2>Funktionen</h2>
 
@@ -21,7 +19,7 @@ pageEncoding="UTF-8"%>
 
 <h2>Verwendete Technologien</h2>
 
-<ul> <li>Java</li> <li>JSP</li> <li>Servlet</li> <li>HTML</li> <li>CSS</li> <li>MySQL</li> </ul>
+<ul> <li>Java</li> <li>JSP</li> <li>Jakarta Servlet</li> <li>HTML</li> <li>CSS</li> <li>Apache Tomcat</li> <li>MySQL (geplant)</li> </ul>
 
 <h2>Ziel des Projekts</h2>
 
@@ -53,4 +51,5 @@ Uhrzeit:<br>
 
 </form>
 
-</body> </html>
+</body> 
+</html>
