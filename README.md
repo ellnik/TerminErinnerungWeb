@@ -55,5 +55,5 @@ Olena Nikolaienko
 Ausbildung: Fachinformatikerin für Anwendungsentwicklung
 Projekt: TerminErinnerungWeb
 
-result:
+result:https://github.com/ellnik/TerminErinnerungWeb/blob/main/projekt1.png
 result:
